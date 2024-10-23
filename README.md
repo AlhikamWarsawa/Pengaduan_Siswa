@@ -1,6 +1,6 @@
 # Pengaduan Siswa
 
-Pengaduan Siswa is a Laravel-based application for managing student complaints.
+Pengaduan Siswa adalah Website Untuk Cepu dan Lapor Melapor 
 
 ## Installation
 
