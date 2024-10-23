@@ -56,31 +56,3 @@ Follow these steps to set up the project locally:
    ```bash
    npm run dev
    ```
-
-## Usage
-
-After installation, you can access the application at `http://localhost:8000`.
-
-## Contributing
-
-Contributions are welcome. Please feel free to submit a Pull Request.
-
-## License
-
-This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-```
-
-This README now provides clear installation instructions for your Pengaduan Siswa project. It includes steps for cloning the repository, installing dependencies, setting up the environment, configuring the database, running migrations, and starting the development server.
-
-Remember to replace `your-username` in the git clone URL with your actual GitHub username, and adjust any other details as necessary to match your project's specific requirements.
-
-You may also want to add more sections to the README as your project grows, such as:
-
-- A brief description of what the project does
-- Features list
-- Testing instructions
-- Deployment guidelines
-- API documentation (if applicable)
-- Screenshots or demo (if available)
-
-These additions will make your README more comprehensive and helpful for other developers who might work on or use your project.
